@@ -1,6 +1,6 @@
-# 🚀 NOLE INNOVATIONS
+# 🚀 Qius Solutions
 
-**NOLE** is a tech company building smart solutions for the **food retail industry**.
+**Qius** is a tech company building smart solutions for the **food retail industry**.
 
 We focus on two main areas:
 - 🍽️ **Foodservice**: tools for restaurants, professional kitchens, and food chains.
@@ -11,4 +11,4 @@ Our mission is to make businesses more **efficient**, **modern**, and **ready fo
 ## 📬 Contact
 
 📧 noleinnvations@gmail.com  
-🌐 [NOLE INV.](https://noleinnvations.com.br)
+🌐 [Qius Solutions.](https://qius.solutions)
