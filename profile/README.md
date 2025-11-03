@@ -10,5 +10,5 @@ Our mission is to make businesses more **efficient**, **modern**, and **ready fo
 
 ## 📬 Contact
 
-📧 noleinnvations@gmail.com  
+📧 qius.solutions@gmail.com  
 🌐 [Qius Solutions.](https://qius.solutions)
